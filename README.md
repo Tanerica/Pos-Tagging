@@ -1,5 +1,10 @@
 # Pos-Tagging
 Pos-Tagging (Part of Speech) with (CoNLL-2003) Dataset
 - Dataset: Conference on Computational Natural Language Learning (CoNLL-2003)
-- ![Example Image](https://example.com/path/to/image.jpg)
-
+- You can run in colab: https://colab.research.google.com/drive/1mTe1XV7Ap6jwlGj6-iZes59c78ptvzjQ?usp=sharing
+- Model Architectures
+<img src="model.png" alt="Sample Image" width="500"/>
+- Model accuracy:
+<img src="model_accuracy.png" alt="Sample Image" width="500"/>
+- Model Loss:
+<img src="model_loss.png" alt="Sample Image" width="500"/>
